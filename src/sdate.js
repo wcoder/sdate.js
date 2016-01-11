@@ -1,4 +1,16 @@
 
+/**
+ * Function for generate date picker.
+ * 
+ * @author https://github.com/wcoder
+ * @version 1.0.0
+ * 
+ * @param [callback] onChange - function to get the value of date
+ * @param [array] months - array of month names
+ * @param [string] optionDay - default value for select day
+ * @param [string] optionMonth - default value for select month
+ * @param [string] optionYear - default value for select year
+ */
 var selectionDate = function (onChange, months, optionDay, optionMonth, optionYear) {
 
 	var _day, _month, _year, _i, _currentYear;
