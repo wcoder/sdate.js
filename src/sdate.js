@@ -3,6 +3,7 @@
  * Function for generate date picker.
  * 
  * @author https://github.com/wcoder
+ * @source https://github.com/wcoder/sdate.js
  * @version 1.0.0
  * 
  * @param [callback] onChange - function to get the value of date
