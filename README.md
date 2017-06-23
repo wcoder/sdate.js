@@ -1,7 +1,7 @@
 # sdate.js
 Controls for selection date.
 
-![Example](https://dl.dropboxusercontent.com/u/30506652/github/sdate.png)
+![Example](https://raw.githubusercontent.com/wcoder/sdate.js/master/sdate.png)
 
 [Demo](https://wcoder.github.io/life-calendar/)
 
