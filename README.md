@@ -32,6 +32,10 @@ var date = new Date();
 picker.setDate(date);
 ```
 
+## Who uses?
+
+- [Life-Calendar](https://github.com/wcoder/life-calendar)
+
 
 ---
 &copy; 2016 Yauheni Pakala | MIT
