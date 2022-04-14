@@ -41,7 +41,7 @@ var selectionDate = function (onChange, months, optionDay, optionMonth, optionYe
 	// fill selects
 
 	_day.appendChild(createFirstOption('dp_day', optionDay));
-	_month.appendChild(createFirstOption('dp_month', months[optionMonth - 1])));
+	_month.appendChild(createFirstOption('dp_month', months[optionMonth - 1]));
 	_year.appendChild(createFirstOption('dp_year', optionYear));
 
 	for (_i = 1; _i <= 31; ++_i) {
